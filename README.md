@@ -6,7 +6,7 @@ This repository contains all work related to our project to determine the sentim
 
 **Daniela Pantoja Cabrera** 
 
-**Dhariya Parmar** 
+**Dhairya Parmar** 
 
 **Farhan Wadia** 
 
